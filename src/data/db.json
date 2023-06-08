@@ -1,0 +1,25 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "description": "compra del mercado semanal",
+            "price": 200000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "description": "pago honorarios",
+            "price": 100000,
+            "type": "ingreso"  
+        },
+        {
+            "id": 3,
+            "description": "pago alquiler hogar",
+            "price": 700000,
+            "type": "gasto"
+        }
+
+
+
+    ]
+}
